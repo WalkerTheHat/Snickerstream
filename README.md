@@ -8,7 +8,7 @@ Snickerstream's three main focuses are performance, customizability and feature-
 
 Don't believe me? Here are some examples of features you can expect:
 - Real time screen scaling
-- Sevaral interpolation modes (improves the image quality especially if the window has been scaled)
+- Several interpolation modes (improves the image quality especially if the window has been scaled)
 - Portable: no DLL files needed (keep in mind that kit-kat still uses DLLs, they just get extracted to a temporary directory)
 - Native x64 version for better performance on 64-bit computers
 - MANY screen layouts, such borderless fullscreen and separate windows for both screens
